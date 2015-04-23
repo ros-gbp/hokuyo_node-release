@@ -1,3 +1,24 @@
+## hokuyo_node (jade) - 1.7.8-0
+
+The packages in the `hokuyo_node` repository were released into the `jade` distro by running `/usr/bin/bloom-release hokuyo_node --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:43:52 -0000`
+
+The `hokuyo_node` package was released.
+
+Version of package(s) in repository `hokuyo_node`:
+- upstream repository: https://github.com/ros-drivers/hokuyo_node.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.7.8-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## hokuyo_node (indigo) - 1.7.8-1
 
 The packages in the `hokuyo_node` repository were released into the `indigo` distro by running `/usr/bin/bloom-release hokuyo_node -t indigo -r indigo` on `Mon, 16 Jun 2014 21:31:18 -0000`
